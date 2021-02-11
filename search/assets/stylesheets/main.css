@@ -1,0 +1,22 @@
+body {
+	text-align:center
+}
+
+.col-sm {
+	padding-top:400px
+}
+
+.rounded {
+	border-radius: 50%;
+}
+
+.form-group {
+	padding-top:10px;
+	padding-bottom:10px
+}
+
+.adv-search {
+	border: 1px solid #3079ed;
+	background-color: #4d90fe;
+	color: #fff
+}
